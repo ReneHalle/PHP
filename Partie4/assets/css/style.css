@@ -1,0 +1,26 @@
+body{
+    background-image:url('../img/Dragon_Head_Shot.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background attachemen fix pour le mettre sur tout l'écran même pr le scroll sans le modifier  */
+    background-attachment: fixed;
+}
+
+.colornav{
+    background-color: #ad8adf;
+}
+
+p{
+    color: white;
+    margin: 25px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}

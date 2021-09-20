@@ -1,0 +1,11 @@
+body{
+    background-image:url('../img/Dragon_Head_Shot.png');
+    background-size: cover;
+}
+
+.colornav{
+    background-color: #ad8adf;
+}
+.exo-1{
+    margin-left: 500px;
+}
